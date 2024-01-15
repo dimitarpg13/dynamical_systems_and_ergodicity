@@ -1,4 +1,4 @@
-# Dynamical Systems, Ergodic Systems, Chaos Theory
+# Dynamical Systems, Ergodic Systems, Chaos Theory, Synchronization
 
 ## books
 
