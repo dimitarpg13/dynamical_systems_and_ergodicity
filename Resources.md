@@ -21,3 +21,7 @@
 
 * [Coupled Oscillators and Spontaneous Synchronization, Steven H, Strogatz, Ian Stuart, 1993](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/strogatz1993a.pdf)
 * [Osicallators That Sync and Swarm, Kevin P O'Keeffe et al, Nature Communications, 2017](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
+
+## medium
+
+[Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
