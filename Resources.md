@@ -13,6 +13,10 @@
 
 ## articles
 
+### Ergodicity
+
+* [Proof Of The Ergodic Theorem, George D. Birkhoff, 1931](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/birkhoff-1931-proof-of-the-ergodic-theorem.pdf)
+
 ### Spontaneous Synchronization
 
 * [Coupled Oscillators and Spontaneous Synchronization, Steven H, Strogatz, Ian Stuart, 1993](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/strogatz1993a.pdf)
