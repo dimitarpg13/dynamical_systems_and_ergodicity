@@ -22,7 +22,8 @@
 * [Data Assimilation: Methods, Algorithms and Applications, Mark Asch et al, SIAM, 2016](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/data-assimilation-methods-algorithms-and-applications-Asch_2015.pdf)
 * [Data Assimilation in The Geosciences, Alberto Carrassi et al, 2018](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/Data_Assimilation_in_the_Geosciences_Carassi_2018.pdf)
 * [Non-linear Data Assimilation for High Dimensional Systems, Peter Jan van Leeuwen](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/Nonlinear_Data_Assimilation_for_high-dimensional_systems_VanLeeuwen_2015.pdf)
-
+* [A Tutorial on Bayesian Data Assimilation, Colin Grudzien, Marc Bocquet, 2022](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/A_Tutorial_on_Bayesian_Data_Assimilation_Grudzien_2022.pdf)
+* [A Bayesian Tutorial for data assimilation, Christopher Wikle et al, 2006](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/A_Bayesian_tutorial_for_data_assimilation_Wikle_2006.pdf)
 
 ### Spontaneous Synchronization
 
