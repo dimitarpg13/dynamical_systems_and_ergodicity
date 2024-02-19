@@ -18,6 +18,12 @@
 
 * [Proof Of The Ergodic Theorem, George D. Birkhoff, 1931](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/birkhoff-1931-proof-of-the-ergodic-theorem.pdf)
 
+### Data Assimilation
+* [Data Assimilation: Methods, Algorithms and Applications, Mark Asch et al, SIAM, 2016](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/data-assimilation-methods-algorithms-and-applications-Asch_2015.pdf)
+* [Data Assimilation in The Geosciences, Alberto Carrassi et al, 2018](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/Data_Assimilation_in_the_Geosciences_Carassi_2018.pdf)
+* [Non-linear Data Assimilation for High Dimensional Systems, Peter Jan van Leeuwen](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/Nonlinear_Data_Assimilation_for_high-dimensional_systems_VanLeeuwen_2015.pdf)
+
+
 ### Spontaneous Synchronization
 
 * [Coupled Oscillators and Spontaneous Synchronization, Steven H, Strogatz, Ian Stuart, 1993](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/strogatz1993a.pdf)
