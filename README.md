@@ -1,4 +1,4 @@
-# A Resource of Dynamical Systems, Kalman Filtering, Data Assimiliation, Chaos Theory, Ergodic Systems 
+# A Resource of Dynamical and Ergodic Systems, Kalman Filtering, Data Assimiliation, Chaos Theory
 
 This is a work in progress and the contents will be updated regularly.
 
