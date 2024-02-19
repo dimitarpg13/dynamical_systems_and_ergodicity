@@ -1,4 +1,4 @@
-# Dynamical and Ergodic Systems, Chaos Theory, Spontaneous Synchronization
+# Dynamical and Ergodic Systems, Kalman Filtering, Data Assimiliation, Chaos Theory, Spontaneous Synchronization
 
 ## books
 
