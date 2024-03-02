@@ -54,6 +54,14 @@
 
 * [A New Extension of the Kalman Filter to Nonlinear Systems, Simon Julier, Jeffrey Uhlmann, Oxford U., 1997](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/kalman_filtering/A_New_Extension_of_the_Kalman_Filter_to_Nonlinear_Systems_Julier1997_SPIE_KF.pdf)
 
+### Penrose tilings
+
+* [Never-Repeating Tiles Can Safeguard Quantum Information, B. Brubaker, Quanta Magazine, Feb 2024](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
+
+* [The Penrose Tiling is a Quantum Error-Correcting Code, Zhi Li,  Latham Boyle, U. of Waterloo, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/tilings/The_Penrose_Tiling_is_a_Quantum_Error-Correcting_Code_Li_2024.pdf)
+
+* [Hobbyist Finds Math’s Elusive ‘Einstein’ Tile, E. Klarreich, Quanta Magazine, 2023](https://www.quantamagazine.org/hobbyist-finds-maths-elusive-einstein-tile-20230404/)
+
 ## medium
 
 [Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
