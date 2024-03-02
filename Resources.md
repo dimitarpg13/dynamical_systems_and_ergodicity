@@ -14,6 +14,20 @@
 
 ## articles
 
+### Dynamical behavior of neural networks, chaos and fractal nature of their regimes of operation
+
+* [The Induction of Dynamical Recognizers, JB Pollack, Ohio State U., 1991](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/the_induction_of_dynamical_recognizers_pollack_1991.pdf)
+
+* [Period-doublings to Chaos in a Simple Neural Network - An Analytical Proof, X. Wang, 1991](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/Period-Doublings_to_Chaos_in_a_Simple_Neural_Network-An_Analytical_Proof_Wang_1991.pdf)
+
+* [Absolute Stability Conditions for Discrete Time Recurrent Neural Networks, L. Jin et al, 1994](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/Absolute_Stability_Conditions_for_Discrete-Time_Recurrent_Neural_Networks_Jin_1994.pdf)
+
+* [Dynamics and Bifurcation of Neural Networks, X. Wang EK Blum, 1995](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/Dynamics_and_Bifurcation_of_Neural_Networks_Wang_UCLA.pdf)
+
+* [Discrete-Time vs Continuous-Time models of Neural Networks, X. Wang and EK Blum, 1992](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/Discrete-Time_versus_Continuous-Time_Models_of_Neural_Networks_Wang_1992.pdf)
+
+* [Dynamics of Analog Neural Networks with Time Delay, CM Marcus et al, NIPS, 1988](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/NIPS-1988-dynamics-of-analog-neural-networks-with-time-delay-Marcus.pdf)
+
 ### Ergodicity
 
 * [Proof Of The Ergodic Theorem, George D. Birkhoff, 1931](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/birkhoff-1931-proof-of-the-ergodic-theorem.pdf)
