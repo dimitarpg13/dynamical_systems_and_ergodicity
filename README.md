@@ -26,11 +26,13 @@ This is a work in progress and the contents will be updated regularly.
 
  * [Hypothesis Testing, Estimation of Treatment Effects and Generalized Synthetic Control](https://github.com/dimitarpg13/generalized_synthetic_control_for_testops/blob/main/Resources.md)
  
- * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/Resources.md)
+ * [Graphs and Dynamic Programming](https://github.com/dimitarpg13/graphs_and_dynamic_programming/blob/master/Resources.md)
 
  * [Dynamical Systems, Chaos, Ergodicity](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/Resources.md)
 
  * [Spectral Analysis, Optimization in Spectral Domain, Spectral Domain Modeling](https://github.com/dimitarpg13/spectral_analysis/blob/main/Resources.md)
+
+ * [Computability, Automata, Logic Systems, Formal Grammars and Theory of Parsing](https://github.com/dimitarpg13/computability_and_logic_systems/blob/main/Resources.md)
 
  * [Thought Forming, Consciousness, Intelligent Machines, Inference, Logic Systems](https://github.com/dimitarpg13/aiconcepts/blob/master/Resources.md)
 
