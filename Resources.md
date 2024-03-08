@@ -56,6 +56,10 @@
 
 ### System Identification
 
+* [System Identification: Theory for the User, Lennart Ljeung, 2nd Edition, 1999](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/system_identification/Ljung_L_System_Identification_Theory_for_User-ed2.pdf)
+
+* [Lecture Notes for a Course on System Identification, Kristaan Pelckmans, 2011](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/system_identification/Sysid2011b.pdf)
+
 ### Data Assimilation
 * [Data Assimilation: Methods, Algorithms and Applications, Mark Asch et al, SIAM, 2016](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/data-assimilation-methods-algorithms-and-applications-Asch_2015.pdf)
 
