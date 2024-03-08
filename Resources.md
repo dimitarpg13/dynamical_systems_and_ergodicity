@@ -11,6 +11,8 @@
 * [SYNC - The Emergning Science of Spontaneous Order, Steven Storgatz, 2003](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Strogatz_SYNC_2003.pdf)
 * [Foundations of Ergodic Theory, Marcelo Viana, Krerkley Oliveira, 2015](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Foundations_of_Ergodic_Theory_Vianna_Oliveira_2015.pdf)
 * [Lecture Notes on Ergodic Theory, Omri Sarig, 2023](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Lecture_Notes_on_Ergodic_Theory_Sarig_2023.pdf)
+* [Model Predictive Control: Theory, Computation and Design, James B. Rawling, David Q. Mayne, Moritz M. Diehl, 2nd Edition, 2017](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/model_predictive_control/MPC-book-2nd-edition-1st-printing_2017.pdf)
+* [System Identification: Theory for the User, Lennart Ljeung, 2nd Edition, 1999](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/system_identification/Ljung_L_System_Identification_Theory_for_User-ed2.pdf)
 
 ## articles
 
