@@ -24,6 +24,8 @@
 
 * [System Identification: Theory for the User, Lennart Ljeung, 2nd Edition, 1999](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/system_identification/Ljung_L_System_Identification_Theory_for_User-ed2.pdf)
 
+* [Stochastic Differential Equations: An Introduction with Applications Fifth Edition, Corrected Printing, Bernt Oksendal, 2000](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/StochasticDifferentialEquations_BerntOksendal_2000.pdf)
+
 ## articles
 
 ### Dynamical behavior of neural networks, chaos and fractal nature of their regimes of operation
