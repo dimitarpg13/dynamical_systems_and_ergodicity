@@ -10,6 +10,8 @@
 
 * [Introduction to Dynamical Systems and Chaos, G.C. Layek, 2015](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/An_Introduction_to_Dynamical_Systems_and_Chaos_Layek_2015.pdf)
 
+* [Lecture Notes on Random Dynamical Systems, Maximillian Engel, Freie Universitaet Berlin, 2021](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Lecture_Notes_on_Random_Dynamical_Systems_Engel_2001.pdf)
+
 * [Data Assimilation: Methods, Algorithms and Applications, Mark Asch et al, SIAM, 2016](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/data_assimilation/data-assimilation-methods-algorithms-and-applications-Asch_2015.pdf)
 
 * [CHAOS: An Introduction To Dynamical Systems, Kathleen T. Aligood, Tim D. Sauer, James D. Yorke, 1996](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Chaos_Introduction_to_Dynamical_Systems_Aligood.pdf)
