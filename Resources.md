@@ -34,6 +34,8 @@
 
 * [Random dynamical systems: a review, Rabi Bhattacharya, 2004](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Random_dynamical_systems-a_review_Bhattacharya_2004.pdf)
 
+* [Random Dynamical Systems, Vıtor Araujo, 2008](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Random_Dynamical_Systems_Araujo_2008.pdf)
+
 * [Random Dynamical Systems with Inputs, Michael Marcondes de Freitas and Eduardo D. Sontag, book chapter, 2014](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Random_Dynamical_Systems_with_Inputs_deFeritas_and_Sontag_Rugters_book_chapter_2014.pdf)
 
 ### Dynamical behavior of neural networks, chaos and fractal nature of their regimes of operation
