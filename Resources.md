@@ -28,6 +28,8 @@
 
 * [Stochastic Differential Equations: An Introduction with Applications Fifth Edition, Corrected Printing, Bernt Oksendal, 2000](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/StochasticDifferentialEquations_BerntOksendal_2000.pdf)
 
+* [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, Stanford, 1985](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
+
 ## articles
 
 ### Random dynamical systems
