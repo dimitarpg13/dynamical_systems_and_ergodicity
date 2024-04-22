@@ -1,4 +1,4 @@
-# Dynamical and Ergodic Systems, Kalman Filtering, Data Assimiliation, Chaos Theory, Spontaneous Synchronization
+# Dynamical and Ergodic Systems, State Space Models, Kalman Filtering, Data Assimiliation, Chaos Theory, Spontaneous Synchronization
 
 ## books
 
@@ -27,6 +27,8 @@
 * [System Identification: Theory for the User, Lennart Ljeung, 2nd Edition, 1999](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/system_identification/Ljung_L_System_Identification_Theory_for_User-ed2.pdf)
 
 * [Stochastic Differential Equations: An Introduction with Applications Fifth Edition, Corrected Printing, Bernt Oksendal, 2000](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/StochasticDifferentialEquations_BerntOksendal_2000.pdf)
+
+* [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, Stanford, 1985](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
 
 ## articles
 
@@ -120,6 +122,31 @@
 * [The Penrose Tiling is a Quantum Error-Correcting Code, Zhi Li,  Latham Boyle, U. of Waterloo, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/tilings/The_Penrose_Tiling_is_a_Quantum_Error-Correcting_Code_Li_2024.pdf)
 
 * [Hobbyist Finds Math’s Elusive ‘Einstein’ Tile, E. Klarreich, Quanta Magazine, 2023](https://www.quantamagazine.org/hobbyist-finds-maths-elusive-einstein-tile-20230404/)
+
+### State Space Models in Deep Learning
+
+[Mamba: Linear-Time Sequence Modeling with Selective State Spaces, A. Gu, T. Dao, CMU, 2023](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Mamba-Linear-Time_Sequence_Modeling_with_Selective_State_Spaces_Gu_CMU_2023.pdf)
+
+[Mamba: Can it replace Transformers? Vishal Rajput, Medium Jan 8, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Mamba_Can_it_replace_Transformers_Vishal_Rajput_Jan_2024_Medium.pdf)
+
+[Why Mamba was rejected? Joe El Khoury, Medium, Feb 28, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Why_Mamba_was_rejected_recently_at_the_ICLR_by_Joe_Elkhoury_Feb_2024_Medium.pdf)
+
+[A Visual Guide to Mamba and State Space Models, Maarten Grootendorst, 2024](https://towardsdatascience.com/a-visual-guide-to-mamba-and-state-space-models-8d0d3f7d3ea6)
+
+[Mamba Explained, Kola Ayonrinde, The Gradient, March 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Mamba_Explained_The_Gradient.pdf)
+
+[HiPPO: Recurrent Memory with Optimal Polynomial Projections, A. Gu et al, Stanford U., 2020](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/HiPPO-Recurrent_Memory_with_Optimal_Polynomial_Projections_Gu_2020.pdf)
+
+[How to Train Your HiPPO: State Space Models with Generalized Orthogonal Basis Projections, A. Gu et al, Stanford U., 2022](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/How_to_Train_Your_HiPPO-State_Space_Models_with_Generalized_Orthogonal_Basis_Projections_Gu_2022.pdf)
+
+[Hungry Hungry Hippos: Towards Language Modeling with State Space Models, D. Fu, T. Dao, 2023](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Hungry_Hungry_Hippos-Towards_Language_Modeling_with_State_Space_Models_Fu_Dao_Stanford_2023.pdf)
+
+[Efficiently Modeling Long Sequences with Structured State Spaces, K. Goel, A. Gu et al, 2022](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Efficiently_Modeling_Long_Sequences_with_Structured_State_Spaces_Gu_Stanford_2022.pdf)
+
+[Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers, A. Gu et al, 2021](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Combining_Recurrent_Convolutional_and_Continuous-time_Models_with_Linear_State-Space_Layers_Gu_2021.pdf)
+
+[Diagonal State Spaces are as Effective as Structured State Spaces, A. Gupta, A. Gu et al, 2022](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Diagonal_State_Spaces_are_as_Effective_as_Structured_State_Spaces_Gupta_Gu_2022.pdf)
+
 
 ## medium
 
