@@ -115,6 +115,10 @@
 
 * [A New Extension of the Kalman Filter to Nonlinear Systems, Simon Julier, Jeffrey Uhlmann, Oxford U., 1997](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/kalman_filtering/A_New_Extension_of_the_Kalman_Filter_to_Nonlinear_Systems_Julier1997_SPIE_KF.pdf)
 
+### Hidden Markov Models
+
+* [Hidden Markov Models Lecture Notes, Ramon van Handle, 2008](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/hidden_markov_models/Hidden_Markov_Models_vanHandle_LectureNotes_2008.pdf)
+
 ### Penrose tilings
 
 * [Never-Repeating Tiles Can Safeguard Quantum Information, B. Brubaker, Quanta Magazine, Feb 2024](https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/)
