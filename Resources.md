@@ -163,3 +163,5 @@
 [Tiago Pereira: Emergent chaos in the Turing-Smale problem, Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024](https://youtu.be/ezXaZDhXu5w)
 
 [João Lizárraga: Active and chaotic swarmalators, Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024](https://youtu.be/gs939ymNVhY)
+
+[Thomas Peron: Synchronization in high dimensions: mean-field theory of vector spin models on networks with arbitrary degree distribution](https://youtu.be/D9zeMEtGZi4)
