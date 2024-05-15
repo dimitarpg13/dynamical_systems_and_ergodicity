@@ -155,3 +155,7 @@
 ## medium
 
 [Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
+
+## youtube presentations
+
+[Tiago Pereira: Emergent chaos in the Turing-Smale problem, Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024](https://youtu.be/ezXaZDhXu5w)
