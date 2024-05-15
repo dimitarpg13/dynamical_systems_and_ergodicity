@@ -158,4 +158,8 @@
 
 ## youtube presentations
 
+### Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024
+
 [Tiago Pereira: Emergent chaos in the Turing-Smale problem, Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024](https://youtu.be/ezXaZDhXu5w)
+
+[João Lizárraga: Active and chaotic swarmalators, Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024](https://youtu.be/gs939ymNVhY)
