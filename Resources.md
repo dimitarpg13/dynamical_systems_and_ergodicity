@@ -165,3 +165,7 @@
 [João Lizárraga: Active and chaotic swarmalators, Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024](https://youtu.be/gs939ymNVhY)
 
 [Thomas Peron: Synchronization in high dimensions: mean-field theory of vector spin models on networks with arbitrary degree distribution](https://youtu.be/D9zeMEtGZi4)
+
+### Chaos Theory
+
+[Chaos theory and geometry: can they predict our world? Tim Palmer, The Royal Institution, 2023](https://youtu.be/RkiEV47KPX4?si=hbKpa1viN32kLAzT)
