@@ -156,6 +156,8 @@
 
 [Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
 
+[Reinforcement Learning for Physical Dynamical Systems: An Alternative Approach: Reintroducing genetic algorithms and comparing to neural networks, Robert Etter, 2024, Towards Data Science](https://towardsdatascience.com/rl-for-physical-dynamical-systems-an-alternative-approach-8e2269dc1e79)
+
 ## youtube presentations
 
 ### Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024
