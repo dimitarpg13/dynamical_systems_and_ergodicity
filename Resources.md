@@ -32,6 +32,8 @@
 
 * [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, Stanford, 1985](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
 
+* [An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
+
 ## articles
 
 ### Random dynamical systems
