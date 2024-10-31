@@ -34,6 +34,8 @@
 
 * [An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
 
+* [A First Course in Monte Carlo Methods, D. Sanz-Alonso and O. Al-Ghattas, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/MonteCarlo/A_First_Course_in_Monte_Carlo_Methods_Sanz-Alonso_2024.pdf)
+
 ## articles
 
 ### Random dynamical systems
