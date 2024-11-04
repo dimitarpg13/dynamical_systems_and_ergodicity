@@ -36,6 +36,8 @@
 
 * [A First Course in Monte Carlo Methods, D. Sanz-Alonso and O. Al-Ghattas, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/MonteCarlo/A_First_Course_in_Monte_Carlo_Methods_Sanz-Alonso_2024.pdf)
 
+* [Partial Differential Equations, Lawrence C. Evans, First Edition, 1997](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/partial-differential-equations-by-evans.pdf)
+
 ## articles
 
 ### Random dynamical systems
