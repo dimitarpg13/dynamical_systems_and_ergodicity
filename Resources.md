@@ -166,6 +166,17 @@
 
 [Almost Periodic Functions in Groups, Part II, J.v. Neumann, 1934](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/almost_periodic_functions/AlmostPeriodicFunctionsInGroups_PartII_Bochner_VonNeumann_1934.pdf)
 
+
+### Causality in Large Dynamical Systems
+
+[A New Way to Detect Causality in Time-Series: Interview with Alejandro Rodriguez Dominguez, Microprediction, 2024, Medium](https://microprediction.medium.com/a-new-way-to-detect-causality-in-time-series-interview-with-alejandro-rodriguez-dominguez-9257e8783d7f)
+
+[Causal Interactions Indicator Between Two Time Series Using Extreme Variations in First Eigenvalue of Lagged Correlation Matrices, Alejandro Rodriguez Dominguez, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/causality/Causal_Interactions_Indicator_Between_Two_Time_Series_Using_Extreme_Variations_in_First_Eigenvalue_of_Lagged_Correlation_Matrices_Dominguez_2024.pdf)
+
+[Geometric Spatial and Temporal Constraints in Dynamical Systems and Their Relation to Causal Interactions between Time Series, Alejandro Rodriguez Dominguez, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/causality/Geometric_Spatial_and_Temporal_Constraints_in_Dynamical_Systems_and_Their_Relation_to_Causal_Interactions_between_Time_Series_Dominguez_2024.pdf)
+
+[Will A Large Complex System Be Stable? Robert M. May, 1972](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/causality/Will-A-Large-System-be-stable-1972-may.pdf)
+
 ## medium
 
 [Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
