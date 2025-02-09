@@ -181,6 +181,10 @@
 
 [Statistical Mechanics of Cellular Automata, Stephen Wolfram, 1983](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/statistical-mechanics-cellular-automata.pdf)
 
+[Computation Theory of Cellular Automata, Stephen Wolfram, 1984](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/computation-theory-cellular-automata-Wolfram-1984.pdf)
+
+[Universality and Complexity in Cellular Automata, Stephen Wolfram, 1984](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/universality-complexity-cellular-automata-Wolfram-1984.pdf)
+
 [Two Dimensional Cellular Automata, Norman Packard, Stephen Wolfram, 1984](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/two-dimensional-cellular-automata.pdf)
 
 [New Kind of Science, Stephen Wolfram, 2002](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/Stephen_Wolfram-A_New_Kind_of_Science-Wolfram_Media_2002.pdf)
