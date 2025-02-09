@@ -69,3 +69,4 @@ literature/articles/almost_periodic_functions/AlmostPeriodicFunctionsInGroups_Pa
 literature/articles/causality/Causal_Interactions_Indicator_Between_Two_Time_Series_Using_Extreme_Variations_in_First_Eigenvalue_of_Lagged_Correlation_Matrices_Dominguez_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/cellular_automata/Stephen_Wolfram-A_New_Kind_of_Science-Wolfram_Media_2002.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/cellular_automata/A_Comprehensive_Taxonomy_of_Cellular_Automata_Rollier_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/cellular_automata/statistical-mechanics-cellular-automata.pdf filter=lfs diff=lfs merge=lfs -text
