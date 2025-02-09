@@ -177,6 +177,10 @@
 
 [Will A Large Complex System Be Stable? Robert M. May, 1972](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/causality/Will-A-Large-System-be-stable-1972-may.pdf)
 
+### Cellular Automata
+
+[New Kind of Science, Stephen Wolfram, 2002](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/Stephen_Wolfram-A_New_Kind_of_Science-Wolfram_Media_2002.pdf)
+
 ## medium
 
 [Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
