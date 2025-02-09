@@ -185,6 +185,8 @@
 
 [A Comprehensive Taxonomy of Cellular Automata, Michiel Rollier et al, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/A_Comprehensive_Taxonomy_of_Cellular_Automata_Rollier_2024.pdf)
 
+[Reliable Cellular Automata with Self-Organization, Peter Gacs, Boston U., 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/Reliable_Cellular_Automata_with_Self-Organization_Gacs_2024.pdf)
+
 [Stephen Wolfram's Picks of Cellular Automata from the Computational Universe, live youtube stream, 2022](https://www.youtube.com/live/pMfrRFNCKhE?si=YdLYXncoXWDaM2QE)
 
 ## medium
