@@ -71,3 +71,4 @@ literature/articles/cellular_automata/Stephen_Wolfram-A_New_Kind_of_Science-Wolf
 literature/articles/cellular_automata/A_Comprehensive_Taxonomy_of_Cellular_Automata_Rollier_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/cellular_automata/statistical-mechanics-cellular-automata.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/cellular_automata/Reliable_Cellular_Automata_with_Self-Organization_Gacs_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/cellular_automata/two-dimensional-cellular-automata.pdf filter=lfs diff=lfs merge=lfs -text
