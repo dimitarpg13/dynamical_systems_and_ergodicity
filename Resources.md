@@ -181,6 +181,8 @@
 
 [New Kind of Science, Stephen Wolfram, 2002](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/Stephen_Wolfram-A_New_Kind_of_Science-Wolfram_Media_2002.pdf)
 
+[A Comprehensive Taxonomy of Cellular Automata, Michiel Rollier et al, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/A_Comprehensive_Taxonomy_of_Cellular_Automata_Rollier_2024.pdf)
+
 ## medium
 
 [Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
