@@ -214,3 +214,9 @@
 ### Chaos Theory
 
 [Chaos theory and geometry: can they predict our world? Tim Palmer, The Royal Institution, 2023](https://youtu.be/RkiEV47KPX4?si=hbKpa1viN32kLAzT)
+
+### Synchronization 
+
+[Michael Luchtan, ICTP-SAIFR: Workshop on Synchronization: from collective motion to brain dynamics](https://www.youtube.com/watch?v=_L3C19pwugg)
+
+[Mario Chavez, ICTP-SAIFR: Workshop on Synchronization: The latent geometry of brain networks as a biomarker in epilepsy](https://youtu.be/NbNffHx6uu8?si=Rf5JcB9DUm-U9SZT)
