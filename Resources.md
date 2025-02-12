@@ -217,6 +217,8 @@
 
 ### Synchronization 
 
-[Michael Luchtan, ICTP-SAIFR: Workshop on Synchronization, Feb 2025: from collective motion to brain dynamics](https://www.youtube.com/watch?v=_L3C19pwugg)
+[From collective motion to brain dynamics, Michael Luchtan, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://www.youtube.com/watch?v=_L3C19pwugg)
 
-[Mario Chavez, ICTP-SAIFR: Workshop on Synchronization, Feb 2025: The latent geometry of brain networks as a biomarker in epilepsy](https://youtu.be/NbNffHx6uu8?si=Rf5JcB9DUm-U9SZT)
+[The latent geometry of brain networks as a biomarker in epilepsy, Mario Chavez, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://youtu.be/NbNffHx6uu8?si=Rf5JcB9DUm-U9SZT)
+
+[Critical transitions in complex dynamical systems: theory and implication for neuroscience and Synchronization and Desynchronization of complex networks, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://youtu.be/HMu17VkklO4?si=ynY5E8IIYPWJaclH)
