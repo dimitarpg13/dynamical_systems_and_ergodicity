@@ -221,4 +221,4 @@
 
 [The latent geometry of brain networks as a biomarker in epilepsy, Mario Chavez, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://youtu.be/NbNffHx6uu8?si=Rf5JcB9DUm-U9SZT)
 
-[Critical transitions in complex dynamical systems: theory and implication for neuroscience and Synchronization and Desynchronization of complex networks, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://youtu.be/HMu17VkklO4?si=ynY5E8IIYPWJaclH)
+[Critical transitions in complex dynamical systems: theory and implication for neuroscience and Synchronization and Desynchronization of complex networks, Ulrike Feudel, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://youtu.be/HMu17VkklO4?si=ynY5E8IIYPWJaclH)
