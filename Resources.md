@@ -217,6 +217,8 @@
 
 ### Synchronization 
 
+[Emergence of order in active matter: From synchronization of moving oscillators to collective motion, Fernando Peruani, Cergy Paris University, 2025](https://youtu.be/CfBDGOj6BOo?si=P-kbb9as02DHWLln)
+
 [From collective motion to brain dynamics, Michael Luchtan, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://www.youtube.com/watch?v=_L3C19pwugg)
 
 [The latent geometry of brain networks as a biomarker in epilepsy, Mario Chavez, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://youtu.be/NbNffHx6uu8?si=Rf5JcB9DUm-U9SZT)
