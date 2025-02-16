@@ -217,7 +217,7 @@
 
 ### Synchronization 
 
-[Emergence of order in active matter: From synchronization of moving oscillators to collective motion, Fernando Peruani, Cergy Paris University, 2025](https://youtu.be/CfBDGOj6BOo?si=P-kbb9as02DHWLln)
+[Emergence of order in active matter: From synchronization of moving oscillators to collective motion, Fernando Peruani, Cergy Paris University, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://youtu.be/CfBDGOj6BOo?si=P-kbb9as02DHWLln)
 
 [From collective motion to brain dynamics, Michael Luchtan, ICTP-SAIFR: Workshop on Synchronization, Feb 2025](https://www.youtube.com/watch?v=_L3C19pwugg)
 
