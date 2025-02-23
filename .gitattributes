@@ -76,3 +76,7 @@ literature/articles/cellular_automata/computation-theory-cellular-automata-Wolfr
 literature/articles/cellular_automata/universality-complexity-cellular-automata-Wolfram-1984.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/cellular_automata/Wave_Cellular_Automata_for_Computing_Applications.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/cellular_automata/Adnani_Cellular_Automata.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/cellular_automata/Dynamic-wave-cellular-automata-for-shallow-water-flow-modeling.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/cellular_automata/cellular-automata-Wolfram-1983.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/cellular_automata/cellular-automaton-continuum-systems.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/cellular_automata/cellular-automaton-properties.pdf filter=lfs diff=lfs merge=lfs -text
