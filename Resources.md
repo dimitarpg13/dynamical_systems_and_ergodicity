@@ -44,6 +44,8 @@
 
 [Can One Hear the Shape of a Drum, Mark Kac, The Rockefeller University, 1966](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Can_One_Hear_the_Shape_of_a_Drum_Kac_1966.pdf)
 
+[Hearing the Shape of a Drum, Wikipedia](https://en.wikipedia.org/wiki/Hearing_the_shape_of_a_drum)
+
 ### Random dynamical systems
 
 [Random dynamical systems: a review, Rabi Bhattacharya, 2004](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Random_dynamical_systems-a_review_Bhattacharya_2004.pdf)
