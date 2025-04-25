@@ -166,6 +166,10 @@
 
 [Diagonal State Spaces are as Effective as Structured State Spaces, A. Gupta, A. Gu et al, 2022](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/state_space_models/Diagonal_State_Spaces_are_as_Effective_as_Structured_State_Spaces_Gupta_Gu_2022.pdf)
 
+### Oscillatory State-Space Models
+
+[Oscillatory State-Space Models, T. Konstantin Rusch, Daniela Rus, MIT, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/oscillatory_state_space_models/Oscillatory_State-Space_Models_Rusch_MIT_2025.pdf)
+
 ### Almost-periodic functions
 
 [Almost Periodic Functions in a Group, Part I, J.v. Neumann, 1933](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/almost_periodic_functions/AlmostPeriodicFunctionsInAGroupVonNeumann_1933.pdf)
