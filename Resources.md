@@ -62,6 +62,8 @@
 
 [Period Three Implies Chaos, Tien-Yien Li and James A. Yorke, 1975](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/chaos/Period_Three_Implies_Chaos_LiYorke_1975.pdf)
 
+[Learning Dissipative Dynamics in Chaotic Systems, Z. Li et al, Caltech, 2022](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/chaos/Learning_Dissipative_Dynamics_in_Chaotic_Systems_Li_2022.pdf)
+
 [How chaotic is chaos? How some AI for Science / SciML papers are overstating accuracy claims, Christopher Rackauckas, Stochastic Lifestyle blog, 2025](https://www.stochasticlifestyle.com/how-chaotic-is-chaos-how-some-ai-for-science-sciml-papers-are-overstating-accuracy-claims/)
 
 ### Dynamical behavior of neural networks, chaos and fractal nature of their regimes of operation
