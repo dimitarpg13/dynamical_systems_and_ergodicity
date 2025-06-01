@@ -118,6 +118,10 @@
 
 [Osicallators That Sync and Swarm, Kevin P O'Keeffe et al, Nature Communications, 2017](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/oscillators-that-sync-and-swarm-OKeefe_and_Strogatz.pdf)
 
+### Free Energy Principle
+
+[Self-orthogonalizing attractor neural networks emerging from the free energy principle, Tamas Spisak, Karl Friston, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/free_energy_principle/Self-orthogonalizing_attractor_neural_networks_emerging_from_the_free_energy_principle_Spisak_2025.pdf)
+
 ### Linear Kalman filters and Extended Kalman Filters
 
 [A New Approach to Linear Filtering and Prediction Problems, R.E. Kalman, 1960](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/kalman_filtering/A_New_Approach_to_Linear_Filtering_and_Prediction_Problems_Kalman60.pdf)
