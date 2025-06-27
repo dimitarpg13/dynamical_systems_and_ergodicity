@@ -96,3 +96,4 @@ literature/articles/collective_artificial_intelligence_and_evolutionary_dynamics
 literature/articles/collective_artificial_intelligence_and_evolutionary_dynamics/terrucha-et-al-humans-program-artificial-delegates-to-accurately-solve-collective-risk-dilemmas-but-lack-precision.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Contraction_Theory_Dynamical_Systems_Bullo_2024.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/Lectures_Network_Systems_Bullo_2024.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Lectures_Neural_Dynamics_Bullo_2025.pdf filter=lfs diff=lfs merge=lfs -text
