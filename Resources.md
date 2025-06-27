@@ -2,6 +2,12 @@
 
 ## books
 
+[Lectures on Neural Dynamics, Fransesco Bullo, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Lectures_Neural_Dynamics_Bullo_2025.pdf)
+
+[Lectures on Network Systems, Fransesco Bullo, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Lectures_Network_Systems_Bullo_2024.pdf)
+
+[Contraction Theory for Dynamical Systems, Fransesco Bullo, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Contraction_Theory_Dynamical_Systems_Bullo_2024.pdf)
+
 [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
 
 [Dynamical Systems, Edward R. Scheinerman, JHU, 2000](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Dynamical_Systems_Scheinerman-Book.pdf)
