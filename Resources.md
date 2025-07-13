@@ -38,6 +38,8 @@
 
 [Brownian Motion and Stochastic Flow Systems, J. Michael Harrison, Stanford, 1985](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Brownian_Motion_and_Stochastic_Flow_Systems_Harrison_1985.pdf)
 
+[Adaptive Control Processes: A Guided Tour, Richard Bellman, Rand Corp, 1961](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Adaptive_Control_Processes_A_Guided_Tour_Bellman_1961.pdf)
+
 [An Introduction to Kolmogorov Complexity and its Applications, Ming Li, Paul Vitanyi, Fourth Edition, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/introduction-to-kolmogorov-complexity-and-its-applications-4th-ed_Li_2019.pdf)
 
 [A First Course in Monte Carlo Methods, D. Sanz-Alonso and O. Al-Ghattas, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/MonteCarlo/A_First_Course_in_Monte_Carlo_Methods_Sanz-Alonso_2024.pdf)
