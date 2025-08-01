@@ -88,6 +88,8 @@
 
 [Dynamics of Analog Neural Networks with Time Delay, CM Marcus et al, NIPS, 1988](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/NIPS-1988-dynamics-of-analog-neural-networks-with-time-delay-Marcus.pdf)
 
+[Algebraic connectivity of brain networks shows patterns of segregation leading to reduced network robustness in Alzheimer's disease, Madelaine Daianu et al, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/algebraic_connectivity_of_networks/Algebraic_connectivity_of_brain_networks_shows_patterns_of_segregation_leading_to_reduced_network_robustness_in_Alzheimers_disease_Daianu_2025.pdf)
+
 ### Ergodicity
 
 [Proof Of The Ergodic Theorem, George D. Birkhoff, 1931](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/birkhoff-1931-proof-of-the-ergodic-theorem.pdf)
