@@ -102,3 +102,4 @@ literature/books/Adaptive_Control_Processes_A_Guided_Tour_Bellman_1961.pdf filte
 literature/articles/algebraic_connectivity_of_networks/Algebraic_connectivity_of_brain_networks_shows_patterns_of_segregation_leading_to_reduced_network_robustness_in_Alzheimers_disease_Daianu_2025.pdf filter=lfs diff=lfs merge=lfs -text
 docs/Note_on_the_Fireflies_Flames_and_Brains.docx filter=lfs diff=lfs merge=lfs -text
 literature/books/An_Introduction_to_Statistical_Signal_Processing_Gray_and_Davisson_2004.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Statistical_Signal_Processing_Johnson_2013.pdf filter=lfs diff=lfs merge=lfs -text
