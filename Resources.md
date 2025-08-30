@@ -156,6 +156,10 @@
 
 [A New Extension of the Kalman Filter to Nonlinear Systems, Simon Julier, Jeffrey Uhlmann, Oxford U., 1997](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/kalman_filtering/A_New_Extension_of_the_Kalman_Filter_to_Nonlinear_Systems_Julier1997_SPIE_KF.pdf)
 
+### Monte Carlo Methods
+
+[Geometry & Dynamics for Markov Chain Monte Carlo, Alessandro Barp et al, Imperial College, 2017](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/MonteCarlo/Geometry_and_Dynamics_for_Markov_Chain_Monte_Carlo_Barp_2017.pdf)
+
 ### Hidden Markov Models
 
 [Hidden Markov Models Lecture Notes, Ramon van Handle, 2008](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/hidden_markov_models/Hidden_Markov_Models_vanHandle_LectureNotes_2008.pdf)
