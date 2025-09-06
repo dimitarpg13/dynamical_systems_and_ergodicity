@@ -105,3 +105,4 @@ literature/books/An_Introduction_to_Statistical_Signal_Processing_Gray_and_Davis
 literature/books/Statistical_Signal_Processing_Johnson_2013.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/MonteCarlo/Geometry_and_Dynamics_for_Markov_Chain_Monte_Carlo_Barp_2017.pdf filter=lfs diff=lfs merge=lfs -text
 literature/books/CriticalPhenomenainNaturalSciences-ChaosFractalsSelf-OrganizationandDisorder-ConceptsandTools-2ndEdition-2006.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/renormalization_group/bauerschmidt_brydges_slade_book.pdf filter=lfs diff=lfs merge=lfs -text
