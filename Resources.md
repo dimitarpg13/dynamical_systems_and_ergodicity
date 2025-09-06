@@ -64,6 +64,12 @@
 
 [Random Dynamical Systems with Inputs, Michael Marcondes de Freitas and Eduardo D. Sontag, book chapter, 2014](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Random_Dynamical_Systems_with_Inputs_deFeritas_and_Sontag_Rugters_book_chapter_2014.pdf)
 
+### Renormalization Group
+
+[Introduction to Renormalization Group Method, Roland Bauerschmidt, David C. Brydges, and Gordon Slade, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/bauerschmidt_brydges_slade_book.pdf)
+
+[Introduction to Renormalization, JF Melo, U. of Cambridge, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/Introduction_to_Renormalisation_Melo_2019.pdf)
+
 ### Chaos in Complex Dynamical Systems
 
 [Deterministic Nonperiodic FLow, Edward Lorenz, MIT, 1963](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/chaos/deterministic-nonperiodic-flow-lorenz-1963.pdf)
@@ -240,6 +246,7 @@
 [Reliable Cellular Automata with Self-Organization, Peter Gacs, Boston U., 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/cellular_automata/Reliable_Cellular_Automata_with_Self-Organization_Gacs_2024.pdf)
 
 [Stephen Wolfram's Picks of Cellular Automata from the Computational Universe, live youtube stream, 2022](https://www.youtube.com/live/pMfrRFNCKhE?si=YdLYXncoXWDaM2QE)
+
 
 ## medium
 
