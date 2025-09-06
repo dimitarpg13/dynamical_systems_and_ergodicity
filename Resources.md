@@ -8,6 +8,8 @@
 
 [Contraction Theory for Dynamical Systems, Fransesco Bullo, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Contraction_Theory_Dynamical_Systems_Bullo_2024.pdf)
 
+[Critical Phenomena in Natural Sciences - Chaos, Fractals, Self-Organization, and Disorder: Concepts and Tools, Didier Sornette, 2006](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/CriticalPhenomenainNaturalSciences-ChaosFractalsSelf-OrganizationandDisorder-ConceptsandTools-2ndEdition-2006.pdf)
+
 [Introduction to Modern Theory of Dynamical Systems, Anatole Katok, Boris Hasselblatt, 1995](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/IntroductionToModernTheoryOfDynamicalSystems_KatokHasselblatt1995.pdf)
 
 [Dynamical Systems, Edward R. Scheinerman, JHU, 2000](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Dynamical_Systems_Scheinerman-Book.pdf)
