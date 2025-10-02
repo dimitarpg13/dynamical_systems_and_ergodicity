@@ -254,6 +254,10 @@
 
 [Reinforcement Learning for Physical Dynamical Systems: An Alternative Approach: Reintroducing genetic algorithms and comparing to neural networks, Robert Etter, 2024, Towards Data Science](https://towardsdatascience.com/rl-for-physical-dynamical-systems-an-alternative-approach-8e2269dc1e79)
 
+## Lecture notes and supplementary materials
+
+[Nonlinear Dynamics, Kavishka Abeywardana, September 20, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/lecture_notes/Nonlinear_Dynamics_Abeywardana_2025.pdf)
+
 ## youtube presentations
 
 ### Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024
