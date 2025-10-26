@@ -108,3 +108,4 @@ literature/books/CriticalPhenomenainNaturalSciences-ChaosFractalsSelf-Organizati
 literature/articles/renormalization_group/bauerschmidt_brydges_slade_book.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/renormalization_group/Introduction_to_Renormalisation_Melo_2019.pdf filter=lfs diff=lfs merge=lfs -text
 literature/lecture_notes/Nonlinear_Dynamics_Abeywardana_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/books/Think_Complexity_Downey_2016.pdf filter=lfs diff=lfs merge=lfs -text
