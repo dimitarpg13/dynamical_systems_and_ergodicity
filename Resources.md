@@ -100,6 +100,12 @@
 
 [Algebraic connectivity of brain networks shows patterns of segregation leading to reduced network robustness in Alzheimer's disease, Madelaine Daianu et al, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/algebraic_connectivity_of_networks/Algebraic_connectivity_of_brain_networks_shows_patterns_of_segregation_leading_to_reduced_network_robustness_in_Alzheimers_disease_Daianu_2025.pdf)
 
+#### Criticallity of Dynamical Systems
+
+[The Self-Organized Criticality Paradigm in Economics & Finance, Jean-Philippe Bouchaud, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/criticality/The_Self-Organized_Criticality_Paradigm_in_Economics_and_Finance_Bouchaud_2024.pdf)
+
+[Dynamical criticality: overview and open questions, Andrea Roli et al, 2016](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/criticality/Dynamical_criticality-overview_and_open_questions_Roli_2016.pdf)
+
 ### Ergodicity
 
 [Proof Of The Ergodic Theorem, George D. Birkhoff, 1931](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/birkhoff-1931-proof-of-the-ergodic-theorem.pdf)
