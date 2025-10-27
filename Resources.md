@@ -106,7 +106,7 @@
 
 [Dynamical criticality: overview and open questions, Andrea Roli et al, 2016](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/criticality/Dynamical_criticality-overview_and_open_questions_Roli_2016.pdf)
 
-### Ergodicity
+#### Ergodicity
 
 [Proof Of The Ergodic Theorem, George D. Birkhoff, 1931](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/birkhoff-1931-proof-of-the-ergodic-theorem.pdf)
 
