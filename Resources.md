@@ -66,11 +66,29 @@
 
 [Random Dynamical Systems with Inputs, Michael Marcondes de Freitas and Eduardo D. Sontag, book chapter, 2014](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Random_Dynamical_Systems_with_Inputs_deFeritas_and_Sontag_Rugters_book_chapter_2014.pdf)
 
-### Renormalization Group
+### Renormalization Group and Critical Phenomena
 
 [Introduction to Renormalization Group Method, Roland Bauerschmidt, David C. Brydges, and Gordon Slade, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/bauerschmidt_brydges_slade_book.pdf)
 
 [Introduction to Renormalization, JF Melo, U. of Cambridge, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/Introduction_to_Renormalisation_Melo_2019.pdf)
+
+[An exact mapping between the Variational Renormalization Group and Deep Learning, P. Mehta et al, 2014](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/An_exact_mapping_between_the_Variational_Renormalization_Group_and_Deep_Learning_Mehta_2014.pdf)
+
+[Why does deep and cheap learning work so well? Henry Lin et al, 2017](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/Why_does_deep_and_cheap_learning_work_so_well_Liu_2017.pdf)
+
+[The Renormalisation Group - a Mathematical Perspective (Part 1/4), Roland Bauerschmidt, Institut des Hautes Etudes Scientifiques, Mar 31, 2022 (youtube video)](https://www.youtube.com/watch?v=8S4XVEFSG9g)
+
+[The Renormalisation Group - a Mathematical Perspective (Part 2/4), Roland Bauerschmidt, Institut des Hautes Etudes Scientifiques, Mar 31, 2022 (youtube video)](https://www.youtube.com/watch?v=II_H6Sz_RGc)
+
+[The Renormalisation Group - a Mathematical Perspective (Part 3/4), Roland Bauerschmidt, Institut des Hautes Etudes Scientifiques, Mar 31, 2022 (youtube video)](https://www.youtube.com/watch?v=Wmw3P0vJ5ts)
+
+[The Renormalisation Group - a Mathematical Perspective (Part 4/4), Roland Bauerschmidt, Institut des Hautes Etudes Scientifiques, Mar 31, 2022 (youtube video)](https://www.youtube.com/watch?v=DRbpeXBiC6Q)
+
+[Renormalization Group and Critical Phenomena in Hierarchical Models, Roland Roeder, Simons Center for Geometry and Physics, Aug 23, 2021 (youtube video)](https://www.youtube.com/watch?v=KgnC_Z71_7s)
+
+[Renormalization group maps for Ising models and tensor networks, Tom Kennedy, Dec 9, 2021 (youtube video)](https://www.youtube.com/watch?v=DC4We9xiQGc)
+
+[A Deep Dive into the Connections between the Renormalization Group and Deep Learning in the Ising Model, Kelsie Taylor, B.S. Thesis, Caltech, 2023](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/A_Deep_Dive_into_the_Connections_Between_the_Renormalization_Group_and_Deep_Learning_in_the_Ising_Model_Taylor_thesis_2023.pdf)
 
 ### Chaos in Complex Dynamical Systems
 
