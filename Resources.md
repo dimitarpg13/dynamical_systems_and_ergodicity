@@ -68,6 +68,8 @@
 
 ### Renormalization Group and Critical Phenomena
 
+[Renormalization: Why Bigger is Simpler, Broken Symmetries, Aug 9, 2023 (youtube video)](https://www.youtube.com/watch?v=9vFbyHNz-8g)
+
 [Introduction to Renormalization Group Method, Roland Bauerschmidt, David C. Brydges, and Gordon Slade, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/bauerschmidt_brydges_slade_book.pdf)
 
 [Introduction to Renormalization, JF Melo, U. of Cambridge, 2019](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/renormalization_group/Introduction_to_Renormalisation_Melo_2019.pdf)
