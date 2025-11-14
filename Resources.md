@@ -275,6 +275,11 @@
 
 [Stephen Wolfram's Picks of Cellular Automata from the Computational Universe, live youtube stream, 2022](https://www.youtube.com/live/pMfrRFNCKhE?si=YdLYXncoXWDaM2QE)
 
+### Evolutionary Algorithms
+
+[Mathematical Exploration and Discovery at Scale, Bogdan Georgiev et al, Google DeepMind, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/AlphaEvolve/Mathematical_Exploration_and_Discovery_at_Scale_Georgiev_2025.pdf)
+
+github repo (open source): https://github.com/algorithmicsuperintelligence/openevolve
 
 ## medium
 
