@@ -281,6 +281,10 @@
 
 github repo (open source): https://github.com/algorithmicsuperintelligence/openevolve
 
+### Ergodicity of dynamical systems
+
+[Example of non-ergodic System: drop in an elliptic pond, Nils Berglund, youtube video](https://youtu.be/5Zb1SgggPHE?si=e6tZxRM8XemGaXCR)
+
 ## medium
 
 [Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
