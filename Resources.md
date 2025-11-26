@@ -283,7 +283,9 @@ github repo (open source): https://github.com/algorithmicsuperintelligence/opene
 
 ### Ergodicity of dynamical systems
 
-[Example of non-ergodic System: drop in an elliptic pond, Nils Berglund, youtube video](https://youtu.be/5Zb1SgggPHE?si=e6tZxRM8XemGaXCR)
+[Example of non-ergodic System: drop in an elliptic pond, Nils Berglund, 2021 (youtube video)](https://youtu.be/5Zb1SgggPHE?si=e6tZxRM8XemGaXCR)
+
+related github repo: https://github.com/nilsberglund-orleans/YouTube-simulations
 
 ## medium
 
