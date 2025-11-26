@@ -248,7 +248,7 @@ related github repo: https://github.com/nilsberglund-orleans/YouTube-simulations
 
 [Ergodic Theory and Dynamical Systems, International Centre for Theoretical Sciences 2022 (youtube video playlist)](https://www.youtube.com/playlist?list=PL04QVxpjcnjg2iwFc6u5zGkhSZV3OJFyQ)
 
-  * [Geometry of best Approximations by Uri Shapira, Dec 5th, 2022 (youtube video)](https://www.youtube.com/watch?v=IPwzL-jFwIY&list=PL04QVxpjcnjg2iwFc6u5zGkhSZV3OJFyQ)
+  * [Geometry of Best Approximations by Uri Shapira, Dec 5th, 2022 (youtube video)](https://www.youtube.com/watch?v=IPwzL-jFwIY&list=PL04QVxpjcnjg2iwFc6u5zGkhSZV3OJFyQ)
 
 ### Almost-periodic functions
 
