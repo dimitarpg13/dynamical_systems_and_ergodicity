@@ -240,6 +240,16 @@
 
 [Oscillatory State-Space Models, T. Konstantin Rusch, Daniela Rus, MIT, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/oscillatory_state_space_models/Oscillatory_State-Space_Models_Rusch_MIT_2025.pdf)
 
+### Ergodicity of dynamical systems
+
+[Example of non-ergodic System: drop in an elliptic pond, Nils Berglund, 2021 (youtube video)](https://youtu.be/5Zb1SgggPHE?si=e6tZxRM8XemGaXCR)
+
+related github repo: https://github.com/nilsberglund-orleans/YouTube-simulations
+
+[Ergodic Theory and Dynamical Systems, International Centre for Theoretical Sciences 2022 (youtube video playlist)](https://www.youtube.com/playlist?list=PL04QVxpjcnjg2iwFc6u5zGkhSZV3OJFyQ)
+
+  * [Geometry of best Approximations by Uri Shapira, Dec 5th, 2022 (youtube video)](https://www.youtube.com/watch?v=IPwzL-jFwIY&list=PL04QVxpjcnjg2iwFc6u5zGkhSZV3OJFyQ)
+
 ### Almost-periodic functions
 
 [Almost Periodic Functions in a Group, Part I, J.v. Neumann, 1933](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/almost_periodic_functions/AlmostPeriodicFunctionsInAGroupVonNeumann_1933.pdf)
@@ -280,14 +290,6 @@
 [Mathematical Exploration and Discovery at Scale, Bogdan Georgiev et al, Google DeepMind, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/AlphaEvolve/Mathematical_Exploration_and_Discovery_at_Scale_Georgiev_2025.pdf)
 
 github repo (open source): https://github.com/algorithmicsuperintelligence/openevolve
-
-### Ergodicity of dynamical systems
-
-[Example of non-ergodic System: drop in an elliptic pond, Nils Berglund, 2021 (youtube video)](https://youtu.be/5Zb1SgggPHE?si=e6tZxRM8XemGaXCR)
-
-related github repo: https://github.com/nilsberglund-orleans/YouTube-simulations
-
-[Ergodic Theory and Dynamical Systems, International Centre for Theoretical Sciences 2022, (youtube video playlist)](https://www.youtube.com/playlist?list=PL04QVxpjcnjg2iwFc6u5zGkhSZV3OJFyQ)
 
 ## medium
 
