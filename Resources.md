@@ -287,6 +287,8 @@ github repo (open source): https://github.com/algorithmicsuperintelligence/opene
 
 related github repo: https://github.com/nilsberglund-orleans/YouTube-simulations
 
+[Ergodic Theory and Dynamical Systems, International Centre for Theoretical Sciences 2022, (youtube video playlist)](https://www.youtube.com/playlist?list=PL04QVxpjcnjg2iwFc6u5zGkhSZV3OJFyQ)
+
 ## medium
 
 [Modeling Dynamical Systems With Neural ODE: A Hands-on Guide](https://towardsdatascience.com/modeling-dynamical-systems-with-neural-ode-a-hands-on-guide-71c4cfdb84dc)
