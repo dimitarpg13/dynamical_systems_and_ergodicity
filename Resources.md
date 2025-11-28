@@ -114,7 +114,7 @@
 
 [Dynamics of Gravitational Billiard with a Hyperbollic Lower Boundary, M.L. Ferguson et al, 1999](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/gravitational_billiards/Dynamics_of_a_gravitational_billiard_with_a_hyperbollic_lower_boundary_Ferguson_1999.pdf)
 
-[The Kolmogorov-Arnold-Moser matrix is the basis of new LLMs, Alex Kostikov, 2024, TechTalks online article](https://bdtechtalks.com/2024/06/15/kolmogorov-arnold-moser-matrix-llm/)  /* need to take a look at this article; it is a questionable article, whch appeared around the same time Max Tegmark's KAN article appeared; it seems to talks about Kolmogorov-Arnold representation theorem rather than KAM theory */
+[The Kolmogorov-Arnold-Moser matrix is the basis of new LLMs, Alex Kostikov, 2024, TechTalks online article](https://bdtechtalks.com/2024/06/15/kolmogorov-arnold-moser-matrix-llm/)  <span style="color: red;">/* need to take a look at this article; it is a questionable article, whch appeared around the same time Max Tegmark's KAN article appeared; it seems to talks about Kolmogorov-Arnold representation theorem rather than KAM theory */</span>
 
 ### Dynamical behavior of neural networks, chaos and fractal nature of their regimes of operation
 
