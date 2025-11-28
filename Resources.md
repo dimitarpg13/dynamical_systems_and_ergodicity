@@ -104,6 +104,18 @@
 
 [How chaotic is chaos? How some AI for Science / SciML papers are overstating accuracy claims, Christopher Rackauckas, Stochastic Lifestyle blog, 2025](https://www.stochasticlifestyle.com/how-chaotic-is-chaos-how-some-ai-for-science-sciml-papers-are-overstating-accuracy-claims/)
 
+### Kolmogorov-Arnold-Moser theory, gravitational billiards and neural networks
+
+[KAM Theory: The Legacy of Kolmogorov's 1954 Paper, Henk W. Broer, U. of Groningen, 2003](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/KAM/KAM_theory_the_legacy_of_Kolmogorovs_1954_paper_Broer_2003.pdf)
+
+[An Introduction to KAM Theory, C. Eugene Wayne, 2008](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/KAM/An_Introduction_to_KAM_Theory_Wayne_2008.pdf)
+
+[Balls dropped on a hyperbola, Alexander Gustafsson, 2023 (youtube video)](https://www.youtube.com/watch?v=DzrD4YD_MXg)
+
+[Dynamics of Gravitational Billiard with a Hyperbollic Lower Boundary, M.L. Ferguson et al, 1999](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/gravitational_billiards/Dynamics_of_a_gravitational_billiard_with_a_hyperbollic_lower_boundary_Ferguson_1999.pdf)
+
+[The Kolmogorov-Arnold-Moser matrix is the basis of new LLMs, Alex Kostikov, 2024, TechTalks online article](https://bdtechtalks.com/2024/06/15/kolmogorov-arnold-moser-matrix-llm/)
+
 ### Dynamical behavior of neural networks, chaos and fractal nature of their regimes of operation
 
 [The Induction of Dynamical Recognizers, JB Pollack, Ohio State U., 1991](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/the_induction_of_dynamical_recognizers_pollack_1991.pdf)
