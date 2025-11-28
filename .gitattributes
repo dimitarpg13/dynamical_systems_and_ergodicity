@@ -116,3 +116,4 @@ literature/articles/AlphaEvolve/Mathematical_Exploration_and_Discovery_at_Scale_
 literature/lecture_notes/Lectures_on_Bouncing_Balls_Dolgopyat_2025.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/gravitational_billiards/A_System_of_One_Dimensional_Balls_with_Gravity_Wojtkowski_1990.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/gravitational_billiards/Circular_elliptic_and_oval_billiards_in_a_gravitational_field_da_Costa_2013.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/KAM/An_Introduction_to_KAM_Theory_Wayne_2008.pdf filter=lfs diff=lfs merge=lfs -text
