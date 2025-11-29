@@ -86,7 +86,9 @@
 
 [The Renormalisation Group - a Mathematical Perspective (Part 4/4), Roland Bauerschmidt, Institut des Hautes Etudes Scientifiques, Mar 31, 2022 (youtube video)](https://www.youtube.com/watch?v=DRbpeXBiC6Q)
 
-[Renormalization Group and Critical Phenomena in Hierarchical Models, Roland Roeder, Simons Center for Geometry and Physics, Aug 23, 2021 (youtube video)](https://www.youtube.com/watch?v=KgnC_Z71_7s)
+[Renormalization Group and Critical Phenomena in Hierarchical Models, Roland Roeder, Simons Center for Geometry and Physics Part I, Aug 23, 2021 (youtube video)](https://www.youtube.com/watch?v=KgnC_Z71_7s)
+
+[Renormalization Group and Critical Phenomena in Hierarchical Models, Roland Roeder, Simons Center for Geometry and Physics Part II, Aug 23, 2021 (youtube video)](https://www.youtube.com/watch?v=iyiVlmbqQXA)
 
 [Renormalization group maps for Ising models and tensor networks, Tom Kennedy, Dec 9, 2021 (youtube video)](https://www.youtube.com/watch?v=DC4We9xiQGc)
 
