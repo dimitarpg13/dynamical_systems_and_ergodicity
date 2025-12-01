@@ -317,6 +317,23 @@ github repo (open source): https://github.com/algorithmicsuperintelligence/opene
 
 ## youtube presentations
 
+### Summer School in Dynamics (Introductory and Advanced), ICTP, July 16-27, 2018
+
+[Introduction to Ergodic Theory, part 1, Oliver Butterley, ICTP](https://www.youtube.com/watch?v=PJ97TF4Ob44)
+
+[Introduction to Ergodic Theory, part 2, Irene Pasquinelli, Durham Univ.](https://www.youtube.com/watch?v=LCC2ulpQvRw)
+
+[Rotations of the Circle and Renormalization, part 1, Corinna Ulcigrai, University of Bristol](https://www.youtube.com/watch?v=Mxb3QQKyZ3A)
+
+[Rotations of the Circle and Renormalization, part 2, Corinna Ulcigrai, University of Bristol](https://www.youtube.com/watch?v=JSXc3dgl-CM)
+
+[Rotations of the Circle and Renormalization, part 3, Corinna Ulcigrai, University of Bristol](https://www.youtube.com/watch?v=6NxE3Lo7_1Y)
+
+[Rotations of the Circle and Renormalization, part 4, Corinna Ulcigrai, University of Bristol](https://www.youtube.com/watch?v=yyWIXYWfU30)
+
+[Piecewise Expanding Maps of the Circle, Ana Rodriguez-Hertz](https://www.youtube.com/watch?v=yWr_aQvUWto)
+
+
 ### Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024
 
 [Tiago Pereira: Emergent chaos in the Turing-Smale problem, Workshop on Dynamical Processes on Complex Networks, May 13-17, 2024](https://youtu.be/ezXaZDhXu5w)
