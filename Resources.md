@@ -317,11 +317,14 @@ github repo (open source): https://github.com/algorithmicsuperintelligence/opene
 
 ## youtube lectures and presentations
 
-### Ergodic Theory ICTP 2012
+### Ergodic Theory ICTP 2012-2013
+
+[Lecture series - Stefano Luzzatto - 10 lectures - 2012-2013](https://www.youtube.com/playlist?list=PLLq_gUfXAnknPu2yX0RR_nlHzohmko_t9)
 
 [Ergodic Theory - Stefano Luzzatto - Lecture 01](https://www.youtube.com/watch?v=ZCcok7HAUCw)
 
 [Ergodic Theory - Stefano Luzzatto - Lecture 02](https://www.youtube.com/watch?v=j3ZHoIXMXzE)
+
 
 ### Summer School in Dynamics (Introductory and Advanced), ICTP, July 16-27, 2018
 
