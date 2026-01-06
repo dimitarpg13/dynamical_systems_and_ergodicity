@@ -118,3 +118,4 @@ literature/articles/gravitational_billiards/A_System_of_One_Dimensional_Balls_wi
 literature/articles/gravitational_billiards/Circular_elliptic_and_oval_billiards_in_a_gravitational_field_da_Costa_2013.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/KAM/An_Introduction_to_KAM_Theory_Wayne_2008.pdf filter=lfs diff=lfs merge=lfs -text
 literature/articles/temporal_dynamics/Constraint_Breeds_Generalization-Temporal_Dynamics_as_an_Inductive_Bias_Chen_2025.pdf filter=lfs diff=lfs merge=lfs -text
+literature/articles/low_dimensional_linear_embeddings/Automated_Global_Analysis_of_Experimental_Dynamics_through_Low-Dimensional_Linear_Embeddings_Moore_2024.pdf filter=lfs diff=lfs merge=lfs -text
