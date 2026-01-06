@@ -66,11 +66,17 @@
 
 [Random Dynamical Systems with Inputs, Michael Marcondes de Freitas and Eduardo D. Sontag, book chapter, 2014](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/Random_Dynamical_Systems_with_Inputs_deFeritas_and_Sontag_Rugters_book_chapter_2014.pdf)
 
-### Temporal Dynamics of Deep Learning systems
+### Dynamics Studies of Deep Learning systems
 
 [Constraint Breeds Generalization: Temporal Dynamics as an Inductive Bias, Xia Chen, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/temporal_dynamics/Constraint_Breeds_Generalization-Temporal_Dynamics_as_an_Inductive_Bias_Chen_2025.pdf)
 
 related code:  https://github.com/chenxiachan/Constraint-breeds-generalization
+
+[Automated Global Analysis of Experimental Dynamics through Low-Dimensional Linear Embeddings, Samuel A. Moore et al, 2024](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/low_dimensional_linear_embeddings/Automated_Global_Analysis_of_Experimental_Dynamics_through_Low-Dimensional_Linear_Embeddings_Moore_2024.pdf)
+
+related blog: [here](https://generalroboticslab.com/AutomatedGlobalAnalysis)
+
+related code: https://github.com/generalroboticslab/AutomatedGlobalAnalysis
 
 ### Renormalization Group and Critical Phenomena
 
