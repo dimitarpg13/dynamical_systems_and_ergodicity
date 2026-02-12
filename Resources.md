@@ -16,7 +16,7 @@
 
 [Dynamical Systems, Edward R. Scheinerman, JHU, 2000](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Dynamical_Systems_Scheinerman-Book.pdf)
 
-[Lecture Notes on Dynamical Systems, Schlomo Sternberg, 2000](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/lecture_notes/Dynamical_Systems_Schlomo_Sternberg_2000.pdf)
+[Lecture Notes on Dynamical Systems and Renormalization Group, Schlomo Sternberg, 2000](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/lecture_notes/Dynamical_Systems_Schlomo_Sternberg_2000.pdf)
 
 [An Introduction to Dynamical Systems, Michael Brin, Garrett Stuck, 2004](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/books/Brin-Stuck_2002_Introduction-to-Dynamical-Systems.pdf)
 
