@@ -70,6 +70,8 @@
 
 ### Dynamics Studies of Deep Learning systems
 
+[From SGD to Spectra: A Theory of Neural Network Weight Dynamics, Brian Richard Olsen et al, 2026](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/neural_nets/From_SGD_to_Spectra-A_Theory_of_Neural_Network_Weight_Dynamics_Olsen_2026.pdf)
+
 [Constraint Breeds Generalization: Temporal Dynamics as an Inductive Bias, Xia Chen, 2025](https://github.com/dimitarpg13/dynamical_systems_and_ergodicity/blob/main/literature/articles/temporal_dynamics/Constraint_Breeds_Generalization-Temporal_Dynamics_as_an_Inductive_Bias_Chen_2025.pdf)
 
 related code:  https://github.com/chenxiachan/Constraint-breeds-generalization
